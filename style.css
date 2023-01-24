@@ -1,0 +1,41 @@
+body{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+.heading_div{
+ color: rgb(255, 68, 0);
+ background-color:  rgba(238, 250, 100, 0.744);
+ font-weight: bold;
+}
+
+.heading_div h3{
+    color: blue;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-family: 'Holtwood One SC', serif;
+}
+
+.main_div button{
+    letter-spacing: 3px;
+    font-family: 'Holtwood One SC', serif;
+    margin-top: 20px;
+}
+
+label {
+    font-size: 30px;
+}
+
+.main_div{
+    background-color: rgba(31, 238, 31, 0.336);
+    height: 100%;
+}
+
+.copy_right_footer{
+    text-align: center;
+    position: fixed;
+    background-color:  rgba(238, 250, 100, 0.744);
+    bottom: 0;
+    line-height: 2px;
+    width: 100%;
+    text-shadow: 5px 5px 5px rgb(6, 100, 52);
+}
